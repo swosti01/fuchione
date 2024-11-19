@@ -9,6 +9,7 @@ public class FuchioneApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FuchioneApplication.class, args);
 		System.out.println("Hello Swastika DDD");
+		System.out.println("Hello Kritesh Dai");
 	}
 
 }
