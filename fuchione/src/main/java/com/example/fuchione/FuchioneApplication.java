@@ -8,7 +8,7 @@ public class FuchioneApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FuchioneApplication.class, args);
-		System.out.println("Hello Swastika DD");
+		System.out.println("Hello Swastika DDD");
 	}
 
 }

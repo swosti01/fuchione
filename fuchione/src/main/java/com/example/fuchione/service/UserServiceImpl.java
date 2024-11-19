@@ -55,6 +55,7 @@ public class UserServiceImpl implements UserService {
 
         @Override
         public BasicUserResponse listAllUsers() {
+                List<User> userList = userRepository.findAll();
                 return null;
         }
 
